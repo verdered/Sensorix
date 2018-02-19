@@ -14,4 +14,11 @@
 	<natures>
 		<nature>org.python.pydev.pythonNature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>templates</name>
+			<type>2</type>
+			<location>C:/Users/Merinid/git/sensorix/templates</location>
+		</link>
+	</linkedResources>
 </projectDescription>
